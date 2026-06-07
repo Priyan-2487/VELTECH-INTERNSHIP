@@ -1,4 +1,4 @@
-3. Factorial Using Iteration and Recursion
+ Factorial Using Iteration and Recursion
 # Iterative
 n = int(input("Enter a number: "))
 fact = 1
